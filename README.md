@@ -1,4 +1,4 @@
-# Hi there, I'm Anthony! 👋
+# Hi there, I'm Chang,Yu-Che (Anthony)! 👋
 
 ## Skills⚡
 
@@ -18,7 +18,7 @@
 - Twitter: [Your Twitter Profile URL]
 - Personal Website: [Your Personal Website URL]
 -->
-- Email: [anthony0304.ee11@nycu.edu.tw]
+- Email: anthony0304.ee11@nycu.edu.tw
 
 Feel free to reach out to me if you have any questions, collaborations, or just want to connect!
 
