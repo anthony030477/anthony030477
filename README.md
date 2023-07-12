@@ -4,7 +4,7 @@
 
 - Python
 - Pytorch
-- C++
+- C
 
 
 ## Education🌱
