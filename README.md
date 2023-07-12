@@ -18,8 +18,10 @@
 - Twitter: [Your Twitter Profile URL]
 - Personal Website: [Your Personal Website URL]
 -->
-- Email: anthony0304.ee11@nycu.edu.tw
 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthony0304.ee11@nycu.edu.tw)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/changyuche)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anthony0304)
 Feel free to reach out to me if you have any questions, collaborations, or just want to connect!
 
 
