@@ -2,9 +2,9 @@
 
 ## Skills⚡
 
-- Python
-- Pytorch
-- C
+- Python/Pytorch
+- C/C++
+
 
 
 ## Education🌱
