@@ -6,12 +6,12 @@
 - C/C++
 
 
-
+<!--
 ## Education🌱
 
 - [MS], [National Yang Ming Chiao Tung University/Institute of Communications Engineering], [2022~present]
 - [BS], [National Cheng Kung University/Department of Mechanical Engineering], [2018~2022]
-
+-->
 ## Get in Touch📫
 <!--
 - LinkedIn: [Your LinkedIn Profile URL]
