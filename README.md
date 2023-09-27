@@ -2,7 +2,7 @@
 
 
 
-[MY CV](https://github.com/anthony030477/anthony030477/blob/main/yu-che%20chang.pdf)
+[My resume](https://github.com/anthony030477/anthony030477/blob/main/yu-che%20chang.pdf)
 
 
 
