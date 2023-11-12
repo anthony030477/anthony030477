@@ -1,11 +1,6 @@
 # Hi there, I'm Chang,Yu-Che (Anthony)! 👋
 
 
-
-[My resume](https://github.com/anthony030477/anthony030477/blob/main/yu-che%20chang.pdf)
-
-
-
 <!--
 ## Skills⚡
 
